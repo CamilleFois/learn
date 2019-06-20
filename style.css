@@ -1,1 +1,22 @@
+body { 
+    font-family: 'Century Gothic';
+
+    text-align: center;
+
+    background-image: url('./FINAL.31.png');  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;  
+    background-size: 30%;
+}
+
+
+h1 {
+    color: #081b3a;
+  }
+
+
+  h2 {
+    color: #0f397f;
+  }
 
